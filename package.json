@@ -1,0 +1,15 @@
+{
+  "name": "todo_websocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kris2485/todo_websocket.git",
+  "author": "Krzysztof Rajnert <krzysiekrajnert@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
